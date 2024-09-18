@@ -1,2 +1,3 @@
 git is comprehensive
 git is lightweight tool
+git uses distributed architecture
